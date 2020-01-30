@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AD-Remote</string>
+
+    <string name="hint_text">IP Adresse</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
